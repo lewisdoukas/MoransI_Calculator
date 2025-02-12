@@ -1,0 +1,7 @@
+pillow
+matplotlib
+numpy
+pandas
+geopandas
+pandastable
+scipy
